@@ -2,18 +2,19 @@
 
 (Inspired by Bruno Simon's 3JS template)
 
-At its most basic, we have:
-- Scene
-- Objects
-- Camera
-- Renderer
----
 # To run:
 
 Have Node.js installed and run:
 ```
 npm i
+npm run dev
 ```
+
+At its most basic, we have:
+- Scene
+- Objects
+- Camera
+- Renderer
 
 # App.js:
 
