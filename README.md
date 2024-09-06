@@ -8,6 +8,13 @@ At its most basic, we have:
 - Camera
 - Renderer
 ---
+# To run:
+
+Have Node.js installed and run:
+```
+npm i
+```
+
 # App.js:
 
 ```javascript
