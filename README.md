@@ -1,3 +1,5 @@
+# My 3JS Template
+
 (Inspired by Bruno Simon's 3JS template)
 
 At its most basic, we have:
@@ -6,6 +8,7 @@ At its most basic, we have:
 - Camera
 - Renderer
 ---
+# App.js:
 
 ```javascript
 import * as THREE from 'three'
